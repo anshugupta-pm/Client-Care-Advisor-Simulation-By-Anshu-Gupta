@@ -2,6 +2,7 @@
 A customer called in upset after noticing two charges for the same online payment. She was worried about a potential fraud or system error and wanted immediate clarification.
 
 Section 2: My 3-Step Approach to Resolution
+
 ✅ Step 1: Listen & Empathize
 I acknowledged the client’s concern, reassured her that I would stay on the line and help resolve the issue, and gathered relevant details (transaction date, amount, and method of payment).
 
