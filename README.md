@@ -1,4 +1,7 @@
 # Client_Care_Advisor_Simulation_By-Anshu_Gupta
+
+Section 1: Situation Overview
+
 A customer called in upset after noticing two charges for the same online payment. She was worried about a potential fraud or system error and wanted immediate clarification.
 
 Section 2: My 3-Step Approach to Resolution
