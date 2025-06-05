@@ -1,5 +1,7 @@
 # Client_Care_Advisor_Simulation_By-Anshu_Gupta
 
+This simulation demonstrates how I would handle a typical client concern in a Client Care Advisor role. It reflects my ability to stay calm under pressure, investigate efficiently, and communicate clearly—all essential to delivering trust-based service in a financial setting.
+
 **Section 1: Situation Overview**
 
 A customer called in upset after noticing two charges for the same online payment. She was worried about a potential fraud or system error and wanted immediate clarification.
@@ -21,5 +23,6 @@ The client felt heard, informed, and reassured. She appreciated the proactive fo
 
 **Section 4: What This Shows**
 
-This scenario highlights my ability to stay calm under pressure, interpret policy and system data clearly, and prioritize the client’s trust. These are the same skills I developed while resolving 200+ customer issues per week at H&M.
+This scenario highlights my ability to stay calm under pressure, interpret policy and system data accurately, and prioritize building client trust through clear communication.
+
 
