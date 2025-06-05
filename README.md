@@ -16,6 +16,7 @@ I reviewed the transaction records in our CRM and bank system. I discovered that
 I explained the difference between posted and pending charges, reassured the client that no money had been withdrawn twice, and sent a follow-up email summarizing the explanation for her records. I also flagged the account for monitoring as a proactive measure.
 
 Section 3: Customer Outcome
+
 The client felt heard, informed, and reassured. She appreciated the proactive follow-up and said she felt “more confident banking with us.” The issue was fully resolved within the call.
 
  Section 4: What This Shows
